@@ -1,2 +1,2 @@
-TThis is my another fil
-Thisi is the second line e
+This is my another file
+The changes are done by user1
